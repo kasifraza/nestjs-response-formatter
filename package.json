@@ -1,16 +1,29 @@
 {
   "name": "@kasifraza/nestjs-response-formatter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Standardized API response wrapper for NestJS with pagination, error formatting, and success responses",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc",
     "test": "jest",
     "prepublishOnly": "npm run build"
   },
-  "keywords": ["nestjs", "response", "formatter", "pagination", "api", "interceptor", "wrapper", "standardized", "rest-api", "typescript"],
+  "keywords": [
+    "nestjs",
+    "response",
+    "formatter",
+    "pagination",
+    "api",
+    "interceptor",
+    "wrapper",
+    "standardized",
+    "rest-api",
+    "typescript"
+  ],
   "author": {
     "name": "Kasif Raza",
     "email": "kasifraza910@gmail.com",
