@@ -1,5 +1,10 @@
 # @kasifraza/nestjs-response-formatter
 
+[![npm package](https://img.shields.io/npm/v/@kasifraza/nestjs-response-formatter?color=brightgreen&label=npm%20package)](https://www.npmjs.com/package/@kasifraza/nestjs-response-formatter)
+[![license](https://img.shields.io/npm/l/@kasifraza/nestjs-response-formatter)](https://github.com/kasifraza/nestjs-response-formatter/blob/main/LICENSE)
+[![downloads](https://img.shields.io/npm/dw/@kasifraza/nestjs-response-formatter?color=brightgreen)](https://www.npmjs.com/package/@kasifraza/nestjs-response-formatter)
+[![Tests](https://img.shields.io/github/actions/workflow/status/kasifraza/nestjs-response-formatter/test.yml?label=Tests)](https://github.com/kasifraza/nestjs-response-formatter)
+
 Standardized API response wrapper for NestJS with automatic pagination detection, error formatting, and custom messages.
 
 ## Install
